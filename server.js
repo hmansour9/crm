@@ -2,7 +2,7 @@
 // ==================================
 
 // connect to our database (hosted on mongolab.com)
-mongoose.connect('mongodb://<dbuser>:<dbpassword>@ds035617.mongolab.com:35617/mm');
+//mongoose.connect('mongodb://hmansour:KJy94uuN@ds035617.mongolab.com:35617/mm');
 
 // CALL THE PACKAGES ----------------
 var express 	= require('express'); // call express
